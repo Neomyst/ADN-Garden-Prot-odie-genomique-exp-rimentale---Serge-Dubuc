@@ -1,5 +1,10 @@
-Proteodyne
+Jardin d'ADN version PCérébral (modification de l'ADN humain à l'aide de fréquences sonores et visuelles)
 ==========
+
+ATTENTION, veuillez faire preuve de prudence avec cette nouvelle technologie qui peut se révéler très puissante et dangereuse si mal utilisée.
+
+Ce logiciel est fourni « tel quel », sans aucune garantie. Vous pouvez utiliser, modifier et redistribuer le code librement.
+Veuillez utiliser Proteodyne avec prudence et sagesse. Il peut être nocif pour la santé s'il est mal utilisé.
 
 Proteodyne is a proteody generator based on Joël Sternheimer patent : ["Method for the epigenetic regulation of protein biosynthesis by scale resonance"](http://www.google.com/patents/EP0648275B1?cl=en&hl=en).
 
